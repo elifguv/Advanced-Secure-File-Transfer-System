@@ -1,0 +1,2 @@
+Bu metin gizli tutulmalıdır. AES ile şifrelenecektir.
+Erişimi olan kişiler dışında kimse okuyamamalıdır.

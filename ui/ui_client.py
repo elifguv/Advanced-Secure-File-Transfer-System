@@ -16,7 +16,7 @@ Kullanım
 """
 
 import PySimpleGUI as sg
-from fragment_sender_hash import send_file  #send_file(path) -> bool | (bool, str)
+from auth.fragment_sender_hash import send_file  #send_file(path) -> bool | (bool, str)
 
 # ─────────────────────────────────────────────────────────────
 # 1) Tema & Layout
